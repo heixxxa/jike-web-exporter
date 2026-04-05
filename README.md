@@ -1,4 +1,4 @@
-# XHS Web Exporter
+# Jike Web Exporter
 
 即刻油猴插件
 

@@ -1,8 +1,8 @@
 # XHS Web Exporter
 
 即刻油猴插件
-![alt text](image.png)![alt text](image-1.png)![alt text](image-2.png)![alt text](image-3.png)
-**Export notes, comments and much more from Xiaohongshu (Little Red Book) web app.**
+
+**Export notes, comments and much more from Jike web app.**
 
 ## Features
 
